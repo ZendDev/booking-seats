@@ -1,0 +1,308 @@
+{
+  "name": "Переводчик",
+  "age": "18+",
+  "duration": "2ч 3 мин.",
+  "time": "19:23",
+  "seats": [
+    {
+      "id": "1",
+      "price": 410,
+      "lock": true,
+      "row": 1
+    },
+    {
+      "id": "2",
+      "price": 410,
+      "lock": true,
+      "row": 1
+    },
+    {
+      "id": "3",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "4",
+      "price": 410,
+      "lock": true,
+      "row": 1
+    },
+    {
+      "id": "5",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "6",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "7",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "8",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "9",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "10",
+      "price": 410,
+      "lock": false,
+      "row": 1
+    },
+    {
+      "id": "11",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "12",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "13",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "14",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "15",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "16",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "17",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "18",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "19",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "20",
+      "price": 410,
+      "lock": false,
+      "row": 2
+    },
+    {
+      "id": "21",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "22",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "23",
+      "price": 410,
+      "lock": true,
+      "row": 3
+    },
+    {
+      "id": "24",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "25",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "26",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "27",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "28",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "29",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "30",
+      "price": 410,
+      "lock": false,
+      "row": 3
+    },
+    {
+      "id": "31",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "32",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "33",
+      "price": 410,
+      "lock": true,
+      "row": 4
+    },
+    {
+      "id": "34",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "35",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "36",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "37",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "38",
+      "price": 410,
+      "lock": false,
+      "row": 4
+    },
+    {
+      "id": "39",
+      "price": 410,
+      "lock": true,
+      "row": 4
+    },
+    {
+      "id": "40",
+      "price": 410,
+      "lock": true,
+      "row": 4
+    },
+    {
+      "id": "41",
+      "price": 410,
+      "lock": true,
+      "row": 5
+    },
+    {
+      "id": "42",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "43",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "44",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "45",
+      "price": 410,
+      "lock": true,
+      "row": 5
+    },
+    {
+      "id": "46",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "47",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "48",
+      "price": 410,
+      "lock": false,
+      "row": 5
+    },
+    {
+      "id": "49",
+      "price": 410,
+      "lock": true,
+      "row": 5
+    },
+    {
+      "id": "50",
+      "price": 410,
+      "lock": true,
+      "row": 5
+    }
+  ]
+}

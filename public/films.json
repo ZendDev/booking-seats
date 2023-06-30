@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Вызов",
+    "image": "/cover.jpg",
+    "genre": "драма",
+    "publisher": "Централ Партнершип",
+    "duration": "2ч 43 мин.",
+    "age": "12+",
+    "shedules": [
+      {
+        "id": 1,
+        "time": "18:10",
+        "price": "от 410 р."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Переводчик",
+    "image": "/cover-2.jpg",
+    "genre": "экшн, триллер",
+    "publisher": "Вольга",
+    "duration": "2ч 3 мин.",
+    "age": "18+",
+    "shedules": [
+      {
+        "id": 1,
+        "time": "19:23",
+        "price": "от 410 р."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Дыхание",
+    "image": "/cover-3.jpg",
+    "genre": "драма",
+    "publisher": "Централ Партнершип",
+    "duration": "2ч 40 мин.",
+    "age": "16+",
+    "shedules": [
+      {
+        "id": 1,
+        "time": "16:30",
+        "price": "от 410 р."
+      }
+    ]
+  }
+]
